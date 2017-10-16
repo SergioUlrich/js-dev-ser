@@ -1,3 +1,3 @@
 # js-dev-ser
-Version 1.5
+Version 2.0
 Entorno de prueba para js
